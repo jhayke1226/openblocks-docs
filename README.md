@@ -32,7 +32,7 @@ Happy coding!
 - No coding experience Required!
 - Drag and drop similar to MIT's Scratch and Sketchware (but you can change it if you wanted to)
 - Has a modular system inplace so that you can customize the app as it is your own :)
-- Convert your projects to Android Atudio's code (soon)
+- Convert your projects to Android Studio's code (soon)
 - Support for multiple languages (soon)
 - Maintained? YES!
 
